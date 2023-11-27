@@ -1,0 +1,6 @@
+django
+gunicorn
+whitenoise
+python-dotenv
+django-admin-tabler
+django-api-generator
